@@ -84,35 +84,26 @@ Git vs Github: Understanding the differences
 People unfamiliar with the technology will often use the terms Git and Github interchangeably. This is an understadable mistake, since Git and GitHub are closely related tools, but they serve distinct purposes in the world of version control and collaborative development. Here's a breakdown of their key differences:
 
 **Git:**
-
   - Version Control System: Git is a distributed version control system (DVCS) designed to track changes in files and directories.
-
   - Local Operation: Git operates locally on your computer, allowing you to track changes, create commits, and manage versions without the need for an internet connection.
-
   - Command-Line and GUI: Git is primarily used through command-line interfaces, but there are also graphical user interfaces (GUIs) available.
-
   - Independent of Hosting Platforms: Git is not tied to any specific hosting platform and can be used with various repository hosting solutions or even as a stand-alone tool.
-
   - Private or Self-Hosted Repositories: You can create private Git repositories, and self-hosted Git servers provide control over your code's security and access.
 
 **GitHub:**
-
   - Hosting Platform: GitHub is a web-based platform that provides hosting and collaboration tools for Git repositories. It's a central hub for storing, sharing, and collaborating on Git-based projects.
-
   - Online Repository Hosting: GitHub stores your Git repositories in the cloud, allowing you to access them from anywhere with an internet connection.
-
   - Collaboration and Social Features: GitHub offers collaboration features like pull requests, issues, wikis, and project boards. It also fosters a social aspect where developers can follow projects, contribute, and showcase their work.
-
   - Web Interface: GitHub provides a user-friendly web interface for interacting with Git repositories, making it accessible to a wide range of users, even without in-depth Git knowledge.
-  
   - Public and Private Repositories: GitHub supports both public and private repositories. Public repositories are openly accessible, while private repositories are secure and require permission to access. 
-
   - In summary, Git is the version control system that manages changes locally on your computer and is not tied to any specific platform. GitHub, on the other hand, is a web-based hosting platform that extends Git's functionality by providing a central hub for collaboration, remote access, and social interaction. Understanding the differences between these two tools will help you decide how to best leverage their capabilities in your development projects.
 
 **Git and GitHub: A match made in heaven!**
+""""""""""""""""""""""""""""""""""""""""""""""
+
 Without GitHub, Git is a powerful but limited tool that tracks local file changes on your computer. Without Git, GitHub is a cloud-based storage solution for your code. When used together, GitHub extends the already powerful capabilities of Git to the cloud, allowing us to distribute, share, collaborate, track changes, log issues, host documentation, automate processes, and much more. 
 
 **Git and GitHub: Not the only options!**
+""""""""""""""""""""""""""""""""""""""""""""
+
 With some exceptions, most of what has been said thusfar applies not only to Git and GitHub, but to distributed version control systems in general. Both technologies have numerous alternatives available. Alternatives for Git include Mercurial SCM and Apache Subversion. Alternatives for GitHub include GitLab or BitBucket. All of these technologies have their merit, but the combination of Git and GitHub is by far the most popular. This means that documentation and online support is more readily available, and the tech itself is mature and stable. For these reasons, Horizons staff are encouraged to use Git and GitHub to ensure that the collaboration features are fully utilised. 
-
-

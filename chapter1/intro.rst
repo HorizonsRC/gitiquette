@@ -20,11 +20,8 @@ Open source software refers to programs whose source code is made available to t
 **Key Principles of Open Source:**
 
 1. **Free Redistribution:** Users can share open source software freely, which promotes the spread of knowledge and technology.
-
 2. **Access to Source Code:** The source code, the underlying code that makes software work, is accessible. This empowers developers to understand, modify, and improve the software.
-
 3. **Derived Works:** Users can create their own versions or "forks" of open source software, building upon the original to meet their specific needs.
-
 4. **Collaborative Community:** Open source projects often have a community of contributors who work together to enhance and maintain the software.
 
 **Open Source Licenses:**
@@ -36,22 +33,17 @@ Open source software isn't without rules. Licenses define how the software can b
 - **BSD License:** Provides more freedom to modify and distribute, with fewer restrictions.
 
 **Benefits of Open Source:**
+
 1. **Transparency:** You can see how the software works, enhancing trust and security.
-   
 2. **Cost-Effective:** Many open source tools are free, reducing software expenses.
-   
 3. **Community Support:** A passionate community of contributors and users often provides support, updates, and improvements.
-   
 4. **Customization:** You can tailor open source software to your specific needs.
 
 **Challenges:**
+
 1. **Complexity:** Managing various open source components in a project can be complex.
-   
 2. **Compatibility:** Compatibility issues can arise when combining multiple open source tools.
-   
 3. **Security Concerns:** Ensure that open source software is up-to-date and secure to avoid vulnerabilities.
 
-**Open Source and Horizons**
-
-As local government, we have a responsibility to the rate-payers to be transparent and trustworthy. Our primary goal is not to provide profits for investors, but to provide stable and lasting benefits for our rate-payers and the environment. While the Horizons organisation does rely on a lot of proprietary software, it is the opinion of the author (which does not necessarily reflect the opinion of the Horizons organisation as a whole, Horizons management, or any individial employees) that the software we build should, as far as is practical, responsible, and possible, be available as open source software. Open source software plays a vital role in the tech world, promoting collaboration and innovation. The software we write as Horizons staff does not belong to us, but to the community. It should therefore be accessible to our community to verify, modify and utilise the software.
-
+  **Nic Notes:Open Source and Horizons**
+  As local government, we have a responsibility to the rate-payers to be transparent and trustworthy. Our primary goal is not to provide profits for investors, but to provide stable and lasting benefits for our rate-payers and the environment. While the Horizons organisation does rely on a lot of proprietary software, it is the opinion of the author (which does not necessarily reflect the opinion of the Horizons organisation as a whole, Horizons management, or any other individial employees) that the software we build should, as far as is practical, responsible, and possible, be available as open source software. Open source software plays a vital role in the tech world, promoting collaboration and innovation. The software we write as Horizons staff does not belong to us, but to the community. It should therefore be accessible to our community to verify, modify and utilise the software.

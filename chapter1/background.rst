@@ -1,4 +1,4 @@
-Git for Beginners
+Git Background
 =================
 
 What is Git?

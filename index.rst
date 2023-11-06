@@ -10,8 +10,9 @@ Welcome to Gitiquette's documentation!
    :maxdepth: 2
    :caption: Contents:
   
-   chapter1/intro
-   chapter1/intro_to_git
+   chapter1/about
+   chapter1/background
+   chapter1/getting_started
 
 Indices and tables
 ==================

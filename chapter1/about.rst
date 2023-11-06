@@ -45,5 +45,5 @@ Open source software isn't without rules. Licenses define how the software can b
 2. **Compatibility:** Compatibility issues can arise when combining multiple open source tools.
 3. **Security Concerns:** Ensure that open source software is up-to-date and secure to avoid vulnerabilities.
 
-  **Nic Notes:Open Source and Horizons**
+.. note:: **Open Source and Horizons**
   As local government, we have a responsibility to the rate-payers to be transparent and trustworthy. Our primary goal is not to provide profits for investors, but to provide stable and lasting benefits for our rate-payers and the environment. While the Horizons organisation does rely on a lot of proprietary software, it is the opinion of the author (which does not necessarily reflect the opinion of the Horizons organisation as a whole, Horizons management, or any other individial employees) that the software we build should, as far as is practical, responsible, and possible, be available as open source software. Open source software plays a vital role in the tech world, promoting collaboration and innovation. The software we write as Horizons staff does not belong to us, but to the community. It should therefore be accessible to our community to verify, modify and utilise the software.

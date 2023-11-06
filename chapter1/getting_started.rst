@@ -36,15 +36,19 @@ When in doubt, it is easy to find out whether your folder is a repo or not:
 
       Great! Git was able to see your ``.git`` folder, recognise the git repo, and give you some information about the current state of your repo. Don't worry about the output for now, you'll understand it before long!
 
-.. tip:: Git Gud: One Project, One Repo.
+.. tip:: **Git Gud: One Project, One Repo.**
   
   Repos are very versatile, and essentially allow you to upload any type of file or content. However, it is not appropriate or useful to use repos as a general cloud storage solution. Many of us have picked up bad habits, letting our home folders become bloated and disorganized. Git can help you be more organised, but it does not enforce organisation.
 
   A general rule of thumb is "One project, one repo." In other words, a repo should contain all the necessary code to serve a single purpose, or do a single thing. Some examples include:
-  - A single script with its dependency information* and documentation.
-  - An app with all auxiliary files required to run it, and instructions on how to run them.
-  - A static html page with all the data, logos and images required to render it.
-  - A sphinx document containing content files and configuration files to be hosted on ReadTheDocs.
+  
+  * A single script with its dependency information* and documentation.
+    
+  * An app with all auxiliary files required to run it, and instructions on how to run them.
+    
+  * A static html page with all the data, logos and images required to render it.
+    
+  * A sphinx document containing content files and configuration files to be hosted on ReadTheDocs.
 
   Of course there are always exceptions to this rule. But remember, if you ever find yourself wondering which repo a certain piece of code is in, you may way to rethink the way you organize your code!
 

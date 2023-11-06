@@ -29,7 +29,7 @@ This guide will take you safely up to the first plateau, where you can live happ
 
 Git is like a digital time machine for your work. It helps you keep track of changes you make to your files, making it easy to go back in time if something goes wrong. Think of it as your safety net, ensuring that your important work is always protected. Git is especially useful when you're working with others on the same project, as it allows everyone to collaborate seamlessly and without fear of messing things up. So, whether you're working on a collaborative project, coding a script for your own use, or even writing up a big report, Git is your trusty tool for keeping everything organized and safe.
 
-  **Nic Notes: Git is only as complicated as what you're trying to do.**
+.. tip:: **Git Gud: Git is only as complicated as what you're trying to do.**
   For example: If dozens of people are trying to make changes to the same codebase at the same time, things are going to get weird. Getting out of a three-way merge conflict (don't worry, this is rare) is going to be an ordeal, no matter what. Git provides a way out by keeping track of which programmer wrote which line of code at what time. While the Git commands necessary to get out of this situation may be complex and require a great amount of experience with Git, there is a pathway to solving this problem without losing code.
   On the other hand, following proper git protocol does prevent such issues from cropping up! If a couple of programmers are working together on a codebase, git provides a collaboration framework that *prevents* merge conflicts for the most part, as well as making them easier to resolve when they do occur!
 
